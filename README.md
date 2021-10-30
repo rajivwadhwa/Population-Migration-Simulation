@@ -1,2 +1,3 @@
-# Population-Migration-Simulation
-Project Analysis of determinants that influence rural-urban migration - CS6730 
+# ModSimProject
+CS6730 Spring 2021 Final Project
+Analysis of determinants that influence rural-urban migration
